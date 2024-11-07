@@ -85,6 +85,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/gareth-johnstone/gareth-johnstone/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/IQXLimited/.github/refs/heads/main/profile/snake.svg" alt="Snake animation" />
 
 ###
