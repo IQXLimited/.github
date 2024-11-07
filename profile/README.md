@@ -84,3 +84,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/gareth-johnstone/gareth-johnstone/output/snake.svg" alt="Snake animation" />
+
+###
